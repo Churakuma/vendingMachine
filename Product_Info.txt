@@ -1,0 +1,4 @@
+A1|Item|Coffee|Price|3.50|Stock|4
+A2|Item|Tea|Price|2.00|Stock|2
+B1|Item|Coke|Price|4.00|Stock|3
+B2|Item|Juice|Price|4.00|Stock|2
